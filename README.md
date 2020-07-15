@@ -13,15 +13,15 @@ I'm a software engineer, IoT, and cryptoanalyst, taking interest in programming 
 
 ### Achievement
 
-* [Traveloka Hall of Fame] - Aug 2019, Traveloka.com https://www.traveloka.com/en/bugs
-* [Finalist of Gemastik 2018 Network Security] - Nov 2018, KEMENRISTEK-DIKTI & Institute Teknologi Sepuluh Nopember
-* [Finalist of Gemastik 2017 Network Security] - Nov 2017, KEMENRISTEK-DIKTI & Universitas Indonesia
-* [Finalist of National Cyber Jawara Competition 2017] - Sep 2017, Ministry of Communication and Informatics & ID-SIRTII 
-* [1st Winner of National BNI Hackfest 2017] - Mar 2017, Bank BNI 
-* [Finalist DINACOM Mobile Application Competition] - Feb 2017, Dian Nuswantoro University 
-* [2nd Winner of National Cyber Jawara Competition 2016] - Sep 2016, Ministry of Communication and Informatics & ID-SIRTII
-* [3rd Winner of FIT Competition "Network Security" 2016] - Apr 2016, Universitas Kristen Satya Wacana 
-* [Finalist of National Cyber Jawara Competition 2015] - Nov 2015, Ministry of Communication and Informatics & ID-SIRTII 
-* [Finalist of National Sisfotime3 "Network Security" 2015] - Feb 2015, Telkom University 
-* [4th Winner of Cyber Defense Competition Kemhan 2014] - Mei 2014, Ministry of Communication and Informatics & ID-SIRTII 
-* [3rd Winner of Born2Protect 2017 Bandung Security Contest] - Nov 2017, Ministry of Communication and Informatics & Xynexis
+* `Traveloka Hall of Fame` - Aug 2019, Traveloka.com https://www.traveloka.com/en/bugs
+* `Finalist of Gemastik 2018 Network Security` - Nov 2018, KEMENRISTEK-DIKTI & Institute Teknologi Sepuluh Nopember
+* `Finalist of Gemastik 2017 Network Security` - Nov 2017, KEMENRISTEK-DIKTI & Universitas Indonesia
+* `Finalist of National Cyber Jawara Competition 2017` - Sep 2017, Ministry of Communication and Informatics & ID-SIRTII 
+* `1st Winner of National BNI Hackfest 2017` - Mar 2017, Bank BNI 
+* `Finalist DINACOM Mobile Application Competition` - Feb 2017, Dian Nuswantoro University 
+* `2nd Winner of National Cyber Jawara Competition 2016` - Sep 2016, Ministry of Communication and Informatics & ID-SIRTII
+* `3rd Winner of FIT Competition "Network Security" 2016` - Apr 2016, Universitas Kristen Satya Wacana 
+* `Finalist of National Cyber Jawara Competition 2015` - Nov 2015, Ministry of Communication and Informatics & ID-SIRTII 
+* `Finalist of National Sisfotime3 "Network Security" 2015` - Feb 2015, Telkom University 
+* `4th Winner of Cyber Defense Competition Kemhan 2014` - Mei 2014, Ministry of Communication and Informatics & ID-SIRTII 
+* `3rd Winner of Born2Protect 2017 Bandung Security Contest` - Nov 2017, Ministry of Communication and Informatics & Xynexis
