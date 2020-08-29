@@ -15,6 +15,7 @@ I'm a software engineer, IoT, and cryptoanalyst, taking interest in programming 
 
 * `Traveloka Hall of Fame`
 * `Finalist of IPB Hacktoday 2020`
+* `3rd Winner of IDSECCONF 2019`
 * `Finalist of Gemastik 2018 Network Security`
 * `Finalist of Gemastik 2017 Network Security`
 * `Finalist of National Cyber Jawara Competition 2017`
