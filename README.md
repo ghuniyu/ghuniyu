@@ -11,6 +11,8 @@
 
 I'm a software engineer, IoT, and cryptoanalyst, taking interest in programming and information Security, getting involve and winning some competition about Programming and Cyber Security to improve my skills and experience.
 
+Progressing <a href="https://grosirbox.com">Grosirbox</a> Startup
+
 ### Achievement
 
 * `Traveloka Hall of Fame`
