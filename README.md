@@ -16,6 +16,7 @@ Progressing <a href="https://grosirbox.com">Grosirbox</a> Startup
 ### Achievement
 
 * `Traveloka Hall of Fame`
+* `Finalist of Gemastik 2020 Network Security`
 * `Finalist of National Cyber Jawara Competition 2020`
 * `Finalist of IPB Hacktoday 2020`
 * `3rd Winner of IDSECCONF 2019`
