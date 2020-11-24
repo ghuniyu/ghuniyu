@@ -9,7 +9,7 @@
 	<a href="https://www.linkedin.com/in/ghuniyu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-I'm a software engineer, IoT, and cryptoanalyst, taking interest in programming and information Security, getting involve and winning some competition about Programming and Cyber Security to improve my skills and experience.
+I'm a software engineer, IoT, and cryptoanalyst, taking interest in programming and information security, getting involve and winning some competition about Programming and Cyber Security to improve skills and experience.
 
 Progressing <a href="https://grosirbox.com">Grosirbox</a> Startup
 
