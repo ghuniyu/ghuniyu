@@ -11,7 +11,7 @@
 
 I'm a software engineer, IoT, and cryptoanalyst, taking interest in programming and information security, getting involve and winning some competition about Programming and Cyber Security to improve skills and experience.
 
-Progressing <a href="https://grosirbox.com">Grosirbox</a> Startup
+Come.. visit to my [Medium](https://ghuniyu.medium.com/) <a href="https://ghuniyu.medium.com/"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" width="10" alt="Medium"></a> 
 
 ### Achievement
 
