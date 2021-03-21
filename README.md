@@ -16,9 +16,10 @@ Come.. visit to my [Medium](https://ghuniyu.medium.com/) <a href="https://ghuniy
 ### Achievement
 
 * `Traveloka Hall of Fame`
+* `Finalist of AraCTF (ITS) 2021`
 * `3rd Winner of Gemastik 2020 Network Security`
 * `Finalist of National Cyber Jawara Competition 2020`
-* `Finalist of Hology CTF 2020`
+* `Finalist of Hology (UB) CTF 2020`
 * `Finalist of IPB Hacktoday 2020`
 * `3rd Winner of IDSECCONF 2019`
 * `Finalist of Gemastik 2018 Network Security`
