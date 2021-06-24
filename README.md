@@ -16,6 +16,8 @@ Come.. visit to my [Medium](https://ghuniyu.medium.com/) <a href="https://ghuniy
 ### Achievement
 
 * `Traveloka Hall of Fame`
+* `2nd Runner Up National Wreckit Security 2021`
+* `Finalist of FindIt Security Competition 2021`
 * `Finalist of AraCTF (ITS) 2021`
 * `3rd Winner of Gemastik 2020 Network Security`
 * `Finalist of National Cyber Jawara Competition 2020`
