@@ -1,6 +1,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+
 ## Hi, I'm Ghuniyu
+#### Co-Founder & CTO of [Blocknom](https://blocknom.com/) 
 
 <p align="center">
 	<a href="https://github.com/ghuniyu"><img src="https://img.shields.io/github/followers/ghuniyu.svg?label=GitHub&style=social" alt="GitHub"></a>
