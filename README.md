@@ -4,6 +4,11 @@
 ## Hi, I'm Ghuniyu
 #### Co-Founder & CTO of [Blocknom](https://blocknom.com/) 
 
+As seen on
+- [TechCrunch](https://techcrunch.com/2022/03/03/yc-backed-blocknom-wants-to-become-the-coinbase-earn-of-southeast-asia/)
+- [TechinAsia](https://id.techinasia.com/pendanaan-rp71-miliar-blocknom)
+- [DailySocial](https://dailysocial.id/post/blocknom-crypto-asset-earning-platform-snags-7-billion-seed-funding/)
+
 <p align="center">
 	<a href="https://github.com/ghuniyu"><img src="https://img.shields.io/github/followers/ghuniyu.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/ghuniyu"><img src="https://img.shields.io/twitter/follow/ghuniyu?label=Twitter&style=social" alt="Twitter"></a>
