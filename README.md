@@ -2,9 +2,10 @@
 
 
 ## Hi, I'm Ghuniyu
-#### Co-Founder & CTO of [Blocknom](https://blocknom.com/) 
+#### Co-Founder & CTO of [Stafbook](https://stafbook.com/) 
 
 As seen on
+- [YCombinator](https://www.ycombinator.com/companies/stafbook)
 - [TechCrunch](https://techcrunch.com/2022/03/03/yc-backed-blocknom-wants-to-become-the-coinbase-earn-of-southeast-asia/)
 - [TechinAsia](https://id.techinasia.com/pendanaan-rp71-miliar-blocknom)
 - [DailySocial](https://dailysocial.id/post/blocknom-crypto-asset-earning-platform-snags-7-billion-seed-funding/)
@@ -16,7 +17,7 @@ As seen on
 	<a href="https://www.linkedin.com/in/ghuniyu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-I'm a software engineer, IoT, and cryptoanalyst, taking interest in programming and information security, getting involve and winning some competition about Programming and Cyber Security to improve skills and experience.
+I am a highly experienced software engineer with 13+ years of expertise in software development, strong passion for programming and information security, cryptography and IoT. I actively participate in competitions related to programming and cyber security to continuously improve my skills and gain valuable experience.
 
 Come.. visit to my [Medium](https://ghuniyu.medium.com/) <a href="https://ghuniyu.medium.com/"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" width="10" alt="Medium"></a> 
 
