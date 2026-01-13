@@ -23,25 +23,25 @@ Come.. visit to my [Medium](https://ghuniyu.medium.com/) <a href="https://ghuniy
 
 ### Achievement
 
-* `2nd Winner of Scarlet CTF Hacking Competition 2026`
-* `Traveloka Hall of Fame`
-* `2nd Runner Up National Wreckit Security 2021`
-* `Finalist of JointsCTF (UGM) 2021`
-* `Finalist of FindIt Security Competition 2021`
-* `Finalist of AraCTF (ITS) 2021`
-* `3rd Winner of Gemastik 2020 Network Security`
-* `Finalist of National Cyber Jawara Competition 2020`
-* `Finalist of Hology (UB) CTF 2020`
-* `Finalist of IPB Hacktoday 2020`
-* `3rd Winner of IDSECCONF 2019`
-* `Finalist of Gemastik 2018 Network Security`
-* `Finalist of Gemastik 2017 Network Security`
-* `Finalist of National Cyber Jawara Competition 2017`
-* `1st Winner of National BNI Hackfest 2017`
-* `Finalist DINACOM Mobile Application Competition`
-* `2nd Winner of National Cyber Jawara Competition 2016`
-* `3rd Winner of FIT Competition "Network Security" 2016`
-* `Finalist of National Cyber Jawara Competition 2015`
-* `Finalist of National Sisfotime3 "Network Security" 2015`
-* `4th Winner of Cyber Defense Competition Kemhan 2014`
-* `3rd Winner of Born2Protect 2017 Bandung Security Contest`
+* `🥈 2nd Winner of Scarlet CTF Hacking Competition 2026`
+* `⚔️ Traveloka Hall of Fame`
+* `🏁 2nd Runner Up National Wreckit Security 2021`
+* `🏁 Finalist of JointsCTF (UGM) 2021`
+* `🏁 Finalist of FindIt Security Competition 2021`
+* `🏁 Finalist of AraCTF (ITS) 2021`
+* `🥉 3rd Winner of Gemastik 2020 Network Security`
+* `🏁 Finalist of National Cyber Jawara Competition 2020`
+* `🏁 Finalist of Hology (UB) CTF 2020`
+* `🏁 Finalist of IPB Hacktoday 2020`
+* `🥉 3rd Winner of IDSECCONF 2019`
+* `🏁 Finalist of Gemastik 2018 Network Security`
+* `🏁 Finalist of Gemastik 2017 Network Security`
+* `🏁 Finalist of National Cyber Jawara Competition 2017`
+* `🥇 1st Winner of National BNI Hackfest 2017`
+* `🏁 Finalist DINACOM Mobile Application Competition`
+* `🥈 2nd Winner of National Cyber Jawara Competition 2016`
+* `🥉 3rd Winner of FIT Competition "Network Security" 2016`
+* `🏁 Finalist of National Cyber Jawara Competition 2015`
+* `🏁 Finalist of National Sisfotime3 "Network Security" 2015`
+* `🏁 4th Winner of Cyber Defense Competition Kemhan 2014`
+* `🥉 3rd Winner of Born2Protect 2017 Bandung Security Contest`
