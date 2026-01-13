@@ -23,6 +23,7 @@ Come.. visit to my [Medium](https://ghuniyu.medium.com/) <a href="https://ghuniy
 
 ### Achievement
 
+* `2nd Winner of Scarlet CTF Hacking Competition 2026`
 * `Traveloka Hall of Fame`
 * `2nd Runner Up National Wreckit Security 2021`
 * `Finalist of JointsCTF (UGM) 2021`
